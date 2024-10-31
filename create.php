@@ -2,7 +2,6 @@
 
 <?php
 require 'banco.php';
-//Acompanha os erros de validação
 
 // Processar so quando tenha uma chamada post
 if ($_SERVER["REQUEST_METHOD"] == "POST") {

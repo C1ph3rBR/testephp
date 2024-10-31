@@ -1,5 +1,9 @@
 <?php
-//D:\xampp\phpMyAdmin\config.inc.php
+/*
+Informações de configuração de banco são encontradas onde é salvo as configurações do phpMyAdmin
+Ex:D:\xampp\phpMyAdmin\config.inc.php
+*/
+
 class Banco
 {
     private static $dbNome = 'testephp';
